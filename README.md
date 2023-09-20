@@ -1,6 +1,6 @@
 # Exercise1.
 My group name is CogniCrafters.
-Group memberrs:
+Group members:
 Areeba Khan
 Anzila Alvi
 Umm-e-Ruman
